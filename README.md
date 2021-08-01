@@ -8,7 +8,7 @@ MakeMeTrip - this is a travel planning app. In it, you can plan a trip to a cafe
 - [User settings page](#settings)
 - [Signing in with Google](#login-and-Registration)
 - [List of future trips and trip waypoints](#history)
-  - Attaching files to trip waypoins
+  - Attaching files to trip waypoints
 - [Pagination, filters and sorting for accommodations](#accommodation)
 - Localization using vue-i18n
 
